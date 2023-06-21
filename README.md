@@ -39,13 +39,3 @@ To run this application locally, follow these steps:
 5. Start the development server: `npm start`
 
 6. Open your browser and visit: `http://localhost:3000`
-
-## Contributing
-
-Contributions are welcome! If you would like to enhance the features or fix any issues, feel free to submit a pull request. Please ensure to follow the project's code of conduct.
-
-## Acknowledgments
-
-Special thanks to the open-source community for providing valuable resources and libraries that made this project possible.
-
-If you have any questions or suggestions, please feel free to reach out to us. We hope you enjoy using this social media app!
